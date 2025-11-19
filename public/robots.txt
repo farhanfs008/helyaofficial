@@ -1,0 +1,11 @@
+# robots.txt
+# Mesin pencari mana pun (User-agent: *) diizinkan untuk mengunjungi situs
+User-agent: *
+
+# Disallow (Blokir) folder atau path tertentu. 
+# Jika Anda ingin mengizinkan semuanya, biarkan kosong.
+# Contoh: Disallow: /admin/
+Disallow: 
+
+# Tentukan lokasi sitemap Anda
+Sitemap: https://helyaofficial.netlify.app//sitemap.xml
