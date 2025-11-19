@@ -24,7 +24,7 @@ const CtaSection = () => {
           <ArrowRight className="ml-2 h-4 w-4" />
         </a>
         {/* Tombol Call-to-Action (CTA) Shopee*/}
-        <a href={shopeeUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center px-8 py-3 border border-transparent text-sm lg:text-base font-bold rounded-lg text-orange-600 bg-white hover:bg-gray-100 transition duration-300 shadow-xl"
+        <a href={shopeeUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center mt-4 px-8 py-3 border border-transparent text-sm lg:text-base font-bold rounded-lg text-orange-600 bg-white hover:bg-gray-100 transition duration-300 shadow-xl"
         >
           {/* Menggunakan ikon MessageCircle dari Lucide di tombol untuk merepresentasikan kontak */}
           <ShoppingBag className="mr-3 h-5 w-5" /> 

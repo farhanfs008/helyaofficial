@@ -4,7 +4,7 @@ const souvenirs = [
     name: 'Pouch Kosmetik (50 pcs)',
     price: 213000,
     imageUrl: 'img/s01.jpg',
-    description: 'Gantungan kunci kayu dengan ukiran inisial pengantin.',
+    description: 'Pouch untuk wadah barang kecil dan kosmetik.',
   },
   {
     id: 's02',
